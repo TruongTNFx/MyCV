@@ -272,8 +272,9 @@
     background-color: rgb(224, 224, 224);
     padding: 30px;
   }
-  #foote i {
-    padding-right: 50px;
+  #foote div {
+    padding: 0px 20px;
+    font-size: xx-large;
   }
   /* Thay đổi màu sắc cho icon */
   i.icon-github-circled::before,
